@@ -7,3 +7,37 @@ git commands
 3.git init
 
 4.git checkout -b development  // To check out from master and create a new brance develeopment
+
+5.git commit -m "initial commit"
+
+
+6.git config --global user.name "shabin"
+
+
+7.git config --global user.email shabindasmk@gmail.com
+
+
+8.git push origin development
+
+9.git checkout master
+
+
+10.git checkout -b master
+
+11.git pull origin development
+
+12.git status
+
+13.git add README.txt
+
+14.git push origin master
+
+15.git branch -a
+
+16.git checkout development
+
+17.git merge master
+
+
+18.git push origin development
+
